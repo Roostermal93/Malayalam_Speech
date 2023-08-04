@@ -1,0 +1,21 @@
+{
+    "count": 2,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "0c619077-b3a2-4844-b6b1-bb2d417eda36",
+            "collectionId": "Malayalam",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Malayalam/Malayalam_Speech/0c619077-b3a2-4844-b6b1-bb2d417eda36/0c619077-b3a2-4844-b6b1-bb2d417eda36_ml_Female.mp4"
+        },
+        {
+            "id": "82b67c1f-3ec4-4cfe-936c-78f25e6b28c6",
+            "collectionId": "Malayalam",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Malayalam/Malayalam_Speech/82b67c1f-3ec4-4cfe-936c-78f25e6b28c6/82b67c1f-3ec4-4cfe-936c-78f25e6b28c6_ml_Female.mp4"
+        }
+    ]
+}
